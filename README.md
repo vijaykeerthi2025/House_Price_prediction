@@ -82,3 +82,19 @@ Condition (Poor, Average, Good, Excellent)
 Garage (Yes/No)
 
 Price (Target Variable)
+
+Results:
+I uploaded my result screenshot in screenshot1.png file
+
+✨ Future Improvements
+
+Add real-time house price data from APIs.
+
+Deploy the project on Heroku or Render.
+
+Use Deep Learning (ANN) for better predictions.
+
+👨‍💻 Author
+
+Developed by [Keerthana K G]
+Contact: kgkeerthana693@gmail.com
