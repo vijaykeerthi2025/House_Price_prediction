@@ -38,7 +38,7 @@ Follow these steps to run it locally:
 
 ### *2. Clone or Download*
 ```bash
-git clone https://github.com/your-username/house_price_project.git
+git clone https://github.com/vijaykeerthi2025/house_price_project.git
 cd house_price_project
 3. Install Dependencies
 
